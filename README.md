@@ -11,11 +11,11 @@ With offline cryptos, however, one can exchange the owner for a compensation pay
 
 Once the gold is purchased and all conditions are met, the smart contract is executed immediately. The old owner can no longer initiate delivery using their PIN, and the new owner can initiate delivery as soon as enough CEX have stored the current purchase in the blockchain and signed it, regardless of the encrypted method (microwave, satellite, internet) they used to learn about it. A CEX acts like the signer of a fingerprint.
 
-In offline mode, offline cryptos can change hands via a black box using a PIN. The transfer of value is secured by a protocol that prohibits mining and minting.
+In offline mode, offline cryptos can change hands via a black box using a PIN. The transfer of value is secured with a protocol that prohibits mining and minting.
 
-In principle, offline cryptos could be printed in a newspaper and an ounce offered as a prize to anyone who manages to acquire this ounce using this crypto. Even theft or confiscation does not cause any damage, because the stored ounce is insured and would be immediately exchanged for another.
+In principle, offline cryptos could be printed in a newspaper and an ounce offered as a prize to anyone who manages to acquire this ounce using this crypto. Even theft or confiscation causes no damage, because the stored ounce is insured and would be immediately exchanged for another one. Changing the PIN by the rightful owner renders the cryptos worthless. This way, you can no longer access the ounce.
 
-There is only one difficulty. You need the PIN that matches the ounce, the PIN that matches the storage number, and the PIN that matches the random seed hash, but you only have three attempts to guess it.
+There is only one problem. You need the PIN that matches the ounce, the PIN that matches the storage number, and the PIN that matches the random seed hash, but you only have three attempts to guess it.
 
 If even one of these fails, or a component is missing, only the rightful owner can refresh the crypto via their black box, and they can do so without any risk as long as they are within reach of a CEX or DEX with the black box that can reach at least one other CEX via microwave or satellite that registered the purchase or sale.
 
@@ -31,6 +31,8 @@ The volume of cryptocurrencies is therefore exactly the same as the gold stored 
 
 The crypto has the same interest rate as the liquidator's cash price, plus storage costs and a spread during trading.
 
-The black box is permanently assigned to at least one account and receives all updates from it. Unlike many cryptocurrencies, the smart contract is not a fixed entity because the ounce and the owner are inextricably linked. Therefore, the rules governing the change of ownership can change later, but the owner remains the owner until they sell the ounce, at which point the associated copies of the crypto become worthless, regardless of how they came into being. This is a completely new DeFi concept based on HTML5 with embedded C/C++.
+The black box is permanently assigned to at least one account and receives all updates from it: Unlike many cryptocurrencies, the smart contract is not a fixed entity because the ounce and the owner are inextricably linked. Thus, the rules governing the change of ownership may change later, but the owner remains the owner until they sell the ounce, at which point the associated copies of the crypto become worthless, regardless of how they came into being. This is a completely new DeFi concept based on HTML5 with embedded C/C++.
+
+The black box is permanently assigned to at least one account and receives all updates from it. Unlike many cryptocurrencies, the smart contract is not a fixed entity because the ounce and the owner are inextricably linked. Thus, the rules governing the change of ownership may change later, but the owner remains the owner until they sell the ounce, at which point the associated copies of the crypto become worthless, regardless of how they were created. This is a completely new DeFi concept based on HTML5 with embedded C/C++.
 
 The documentation is in German; other languages ​​are derived from it using translation programs. The code comments are in English. German is the default language if you deselect the language option after installation. However, it is possible to change the language at any time.
