@@ -19,4 +19,14 @@ There is only one difficulty. You need the PIN that matches the ounce, the PIN t
 
 If even one of these fails, or a component is missing, only the rightful owner can refresh the crypto via their black box, and they can do so without any risk as long as they are within reach of a CEX or DEX with the black box that can reach at least one other CEX via microwave or satellite that registered the purchase or sale.
 
-A satellite blackout is extremely rare, and even then, it's still possible to refresh the crypto via microwave at selected locations using the black box.
+A satellite blackout is extremely rare, and even then, it's still possible to use the black box via microwave at selected locations.
+
+Let's look at the UXLINK case. A hacker creates new tokens and sells them via DEX or P2P. This isn't possible with offline cryptocurrencies. The problem UXLINK had wouldn't have happened that way.
+
+Let's look at the PYUSD case. Here, too, trillions of tokens were created and, fortunately, weren't put into circulation. This wouldn't be possible with offline cryptocurrencies because the beginning of a blockchain is gold storage, and without this, no new cryptocurrencies can be added.
+
+Let's look at a case that no cryptocurrencies can handle so far. It's the case of the universal breaking of cryptographic keys, leading to large market caps and sell-offs. No crypto dependent on biocoins via exchange rates would survive this. Offline cryptocurrencies work with one-key pads that never go online and move in line with the gold price. The demise of Bitcoin sends offline cryptocurrencies skyrocketing just as gold does, because the weight of an ounce doesn't change, only its exchange rate and thus the gold basket.
+
+The volume of cryptocurrencies is therefore exactly the same as the gold stored in the money pool of the respective CEX. How the CEX acquired the gold stored is left out of the equation, because the warehouse operator is the only one who has to generate the initial hash with their black box, and without this, there is no trading in the crypto derived from it.
+
+The crypto has the same interest rate as the liquidator's cash price plus storage costs and a spread when trading.
