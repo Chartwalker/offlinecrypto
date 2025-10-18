@@ -9,11 +9,11 @@ Es ist auch die Auslieferung von Gold über die CEX des Homelands vorgesehen, nu
 
 Mit Offline-Kryptos kann man aber gegen Wertausgleich den Besitzer wechseln, der halt vor dem Kauf eine neue PIN vergeben muss und gleichzeitig ein Guthaben haben muss, was den sofortigen Kauf der gleichen Menge Gold am Einlagerungsort sicherstellt. 
 
-Ist das Gold gekauft und sind alle Bedingungen erfüllt wird der Smart Contract sofort ausgeführt. Der alte Besitzer kann mit seiner PIN nicht mehr die Auslieferung veranlassen und der neue Besitzer kann die Auslieferung veranlassen sobald genug CEX den aktullen Kauf in der Blockchain gespeichert und unterschrieben haben, egal auf welchem Weg (Richtfunk, Satellit, Internet) sie davon verschlüsselt erfahren haben. Eine CEX wirkt wie der Unterzeichner eines Fingerprints.
+Ist das Gold gekauft und sind alle Bedingungen erfüllt wird der Smart Contract sofort ausgeführt. Der alte Besitzer kann mit seiner PIN nicht mehr die Auslieferung veranlassen und der neue Besitzer kann die Auslieferung veranlassen sobald genug CEX den aktuellen Kauf in der Blockchain gespeichert und unterschrieben haben, egal auf welchem Weg (Richtfunk, Satellit, Internet) sie davon verschlüsselt erfahren haben. Eine CEX wirkt wie der Unterzeichner eines Fingerprints.
 
 Im Offlinemodus können die Offline-Kryptos über eine Blackbox mit Hilfe einer Pin den Besitzer wechseln. Die Wertübergabe ist mit einen Protokoll gesichert, welches das Mining und Minting verbietet. 
 
-Im Prinzip könnte man Offline-Kryptos in der Zeitung abdrucken und eine Unze als Preisgeld aussetzen, wem es gelingt diese Unze über diesen Krypto in Besitz zu nehmen. Selbst eine Diebstahl oder Beschlagnahmung bringt keinen Schaden, weil die eingelagerte Unze versichert ist und sofort gegen eine andere ausgetauscht würde. 
+Im Prinzip könnte man Offline-Kryptos in der Zeitung abdrucken und eine Unze als Preisgeld aussetzen, wem es gelingt diese Unze über diesen Krypto in Besitz zu nehmen. Selbst ein Diebstahl oder eine Beschlagnahmung bringt keinen Schaden, weil die eingelagerte Unze versichert ist und sofort gegen eine andere ausgetauscht würde und die Änderung der Pin durch den rechtmäßigen Besitzer macht die Kryptos wertlos. Man kommt auf diese Weise nicht mehr an die Unze. 
 
 Es gibt nur eine Schwierigkeit. Man braucht die passende PIN zur Unze und man braucht die passende PIN zur Einlagerungsnummer und die PIN zum passenden Hash vom Random-Seed, aber man hat nur drei Versuchen sie zu erraten. 
 
