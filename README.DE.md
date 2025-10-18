@@ -31,6 +31,6 @@ Der Umfang der Kryptos ist also exakt der gleiche wie eingelagertes Gold im Mone
 
 Der Krypto hat den gleichen Zinssatz wie der Cashkurs des Liquitdationsgebers zuzüglich der Einlagerungskosten und eines Spreads beim Handel.
 
-Die Blackbox ist mindestens einem Account fest zugeordnet und bezieht darüber auch alle Update: Im Gegensatz zu vielen Kryptos ist der Smart Contract keine feste Instanz, weil die Unze und der Besitzer unverrückbar verknüpft sind. Es können sich also die Regeln des Besitzerwechsels später ändern, aber der Besitzer bleibt der Besitzer bis er die Unze verkauft und genau dann sind die dazugehörigen Kopie des Kryptos wertlos, egal wie diese entstanden sind. Das ist ein völlig neues Konzept von DeFi.
+Die Blackbox ist mindestens einem Account fest zugeordnet und bezieht darüber auch alle Update: Im Gegensatz zu vielen Kryptos ist der Smart Contract keine feste Instanz, weil die Unze und der Besitzer unverrückbar verknüpft sind. Es können sich also die Regeln des Besitzerwechsels später ändern, aber der Besitzer bleibt der Besitzer bis er die Unze verkauft und genau dann sind die dazugehörigen Kopie des Kryptos wertlos, egal wie diese entstanden sind. Das ist ein völlig neues Konzept von DeFi auf HTML5 mit embedded C/C++.
 
 Die Dokumentation ist in deutscher Sprache, andere Sprachen sind durch Übersetzerprogramme davon abgeleitet. Die Code-Kommentare sind in englicher Sprache. Die deutsche Sprache ist bei Abwahl der Sprachauswahl nach der Installation voreingestellt. Es ist aber zu jeder Zeit möglich die Sprache zu wechseln. 
