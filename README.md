@@ -31,6 +31,6 @@ The volume of cryptocurrencies is therefore exactly the same as the gold stored 
 
 The crypto has the same interest rate as the liquidator's cash price, plus storage costs and a spread during trading.
 
-The black box is permanently assigned to at least one account and receives all updates from it. Unlike many cryptocurrencies, the smart contract is not a fixed entity because the ounce and the owner are inextricably linked. Thus, the rules governing the change of ownership can change later, but the owner remains the owner until they sell the ounce, at which point the associated copies of the crypto become worthless, regardless of how they came into being. This is a completely new concept in DeFi.
+The black box is permanently assigned to at least one account and receives all updates from it. Unlike many cryptocurrencies, the smart contract is not a fixed entity because the ounce and the owner are inextricably linked. Therefore, the rules governing the change of ownership can change later, but the owner remains the owner until they sell the ounce, at which point the associated copies of the crypto become worthless, regardless of how they came into being. This is a completely new DeFi concept based on HTML5 with embedded C/C++.
 
 The documentation is in German; other languages ​​are derived from it using translation programs. The code comments are in English. German is the default language if you deselect the language option after installation. However, it is possible to change the language at any time.
