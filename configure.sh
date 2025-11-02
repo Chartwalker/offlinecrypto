@@ -234,10 +234,6 @@ TSC_CFN_MF="Makefile"
 TSC_CFN_MK=$TSC_CFN_MF
 TSC_CTY_SNAPYAML="snapcraft.yaml"
 TSC_CTY_SPEC="spec"
-TSC_CPFN_SNAPYAML=""
-TSC_CPFN_SPEC=""
-TSC_CPFN_CMK=""
-TSC_CPFN_CH=""
 
 # SPB = system depended binaries with path
 
@@ -267,9 +263,9 @@ TSC_SBP_YACC=$TSC_SBP_BISON
 
 # linker and compiler flags
 
-CFLAGS_GLIB=`pkg-config --cflags glib-2.0 pango cairo gdk-pixbuf-2.0`" -I /usr/include -I /usr/lib64 -I "$TSC_CDPA_INCL
-CFLAGS_GTK=`pkg-config --cflags gtk+-3.0 pango cairo gdk-pixbuf-2.0`"-I /usr/include -I /usr/lib64 -I "$TSC_CDPA_INCL
-LIBS_GLIB=`pkg-config --libs glib-2.0`" -L /usr/lib -L /usr/lib64 -L "$TSC_CDPA_LIB" -lglib-2.0 -lsymbiot"
+CFLAGS_GLIB=`pkg-config --cflags glib-2.0 pango cairo gdk-pixbuf-2.0`" -I /usr/include -I /usr/lib64 -I ../"$TSC_CDPR_INCL
+CFLAGS_GTK=`pkg-config --cflags gtk+-3.0 pango cairo gdk-pixbuf-2.0`"-I /usr/include -I /usr/lib64 -I ../"$TSC_CDPR_INCL
+LIBS_GLIB=`pkg-config --libs glib-2.0`" -L /usr/lib -L /usr/lib64 -L ../"$TSC_CDPR_LIB" -lglib-2.0 -lsymbiot"
 LIBS_GTK=`pkg-config --libs gtk+-3.0`" -L /usr/lib"
 
 for ((z=0; z<3; z++))
