@@ -1,6 +1,6 @@
 include config.mk
 
-.PHONY: clean all test install stable
+.PHONY: clean all test install stable config
 
 all: ;
 ifeq ($(TSC_MAKE_DEBUG),1)
