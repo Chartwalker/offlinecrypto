@@ -1,8 +1,0 @@
-name: offlinecrypto
-base: core24
-version: 0.1.2-1
-summary: A tool for offline cryptos against blackouts and hyperinflation
-description: |
-  A tool for offline cryptos against blackouts and hyperinflation
-grade: stable
-confinement: devmode
